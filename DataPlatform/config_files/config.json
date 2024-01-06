@@ -1,0 +1,8 @@
+{
+  "googleSheet": {
+    "credentials.json": "/app/credentials.json",
+    "tokenFile": "/app/token.json",
+    "sheetId": "abc",
+    "sheetName": "form-inputs"
+  }
+}
