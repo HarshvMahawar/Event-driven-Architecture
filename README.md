@@ -1,3 +1,10 @@
+## What this project is about?
+This self-project built a real-time data platform using Apache Kafka and Django. Highlights include:
+- Scalable data processing: Kafka handles millions of events efficiently via horizontal scaling.
+- Modular architecture: Plug-in-play design allows for easy integration of new functionalities.
+- Robust monitoring: Error handling and logging ensure smooth operation and valuable insights.
+  
+This project demonstrates expertise in event-driven architecture, containerization, and real-time data processing.
 ## Installation guide
 - You will need to have docker, docker-compose and Python installed
 ### Commands
